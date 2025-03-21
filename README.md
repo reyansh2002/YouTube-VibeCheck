@@ -4,7 +4,7 @@ Analyze YouTube video comments, generate sentiment insights, and visualize data 
 
 ![YouTube Sentiment Analysis](https://img.shields.io/badge/YouTube-Sentiment%20Analysis-blue?style=for-the-badge&logo=youtube)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Powered-red?style=for-the-badge)
-![Python](https://github.com/reyansh2002/YouTube-VibeCheck/blob/main/Graph%20Output.png)
+![Python](https://img.shields.io/badge/Python-3.8+-brightgreen?style=for-the-badge)
 
 ---
 
@@ -26,7 +26,7 @@ Analyze YouTube video comments, generate sentiment insights, and visualize data 
 ![Sentiment Analysis](screenshots/sentiment_results.png)
 
 ### **Graphical Representation**
-![Graph Output](screenshots/graph_output.png)
+![Graph Output](graph_output.png)
 
 (Ensure you upload these screenshots to your GitHub repository.)
 
@@ -101,8 +101,4 @@ This will start a local server, and you can access the app in your browser.
 - **dotenv** – Secure API key handling  
 
 ---
-
-
-
-
 
