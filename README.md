@@ -4,7 +4,7 @@ Analyze YouTube video comments, generate sentiment insights, and visualize data 
 
 ![YouTube Sentiment Analysis](https://img.shields.io/badge/YouTube-Sentiment%20Analysis-blue?style=for-the-badge&logo=youtube)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Powered-red?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3.8+-brightgreen?style=for-the-badge)
+![Python](https://github.com/reyansh2002/YouTube-VibeCheck/blob/main/Graph%20Output.png)
 
 ---
 
