@@ -1,6 +1,6 @@
 # 📊 YouTube Sentiment Analysis
 
-**Analyze YouTube video comments, generate sentiment insights, and visualize data in real-time using Streamlit, Google YouTube API, and TextBlob.**
+Analyze YouTube video comments, generate sentiment insights, and visualize data in real-time using **Streamlit, Google YouTube API, and TextBlob**.
 
 ![YouTube Sentiment Analysis](https://img.shields.io/badge/YouTube-Sentiment%20Analysis-blue?style=for-the-badge&logo=youtube)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Powered-red?style=for-the-badge)
@@ -9,7 +9,6 @@
 ---
 
 ## 🚀 Features
-
 ✅ **Fetch Comments** – Retrieves all comments from any YouTube video.  
 ✅ **Sentiment Analysis** – Classifies comments as **Positive 😊, Negative 😡, or Neutral 😐**.  
 ✅ **Real-time Visualizations** – View sentiment trends with a **line chart**.  
@@ -19,8 +18,21 @@
 
 ---
 
-## 📦 Installation
+## 📷 Screenshots
+### **Home Screen**
+![Home Screen](screenshots/home_screen.png)
 
+### **Sentiment Analysis Results**
+![Sentiment Analysis](screenshots/sentiment_results.png)
+
+### **Graphical Representation**
+![Graph Output](screenshots/graph_output.png)
+
+(Ensure you upload these screenshots to your GitHub repository.)
+
+---
+
+## 📦 Installation
 ### 🔧 Prerequisites
 Ensure you have **Python 3.8+** installed. Then, install the required libraries:
 
@@ -39,7 +51,6 @@ YOUTUBE_API_KEY=your_api_key_here
 ---
 
 ## ▶️ Run the Application
-
 Launch the **Streamlit** app by running:
 
 ```bash
@@ -51,7 +62,6 @@ This will start a local server, and you can access the app in your browser.
 ---
 
 ## 📁 Project Structure
-
 ```
 📂 YouTube-Sentiment-Analysis
 │── .env                      # Stores API Key
@@ -60,12 +70,12 @@ This will start a local server, and you can access the app in your browser.
 │── youtube_comments.csv       # Example CSV output
 │── requirements.txt           # Python dependencies
 │── README.md                  # Documentation
+│── screenshots/               # Screenshots for README
 ```
 
 ---
 
 ## 🔍 How It Works
-
 ### 1️⃣ Fetching Comments  
 - Uses the **YouTube API** to fetch all comments.  
 - Extracts **author name, comment text, and timestamp**.  
@@ -83,8 +93,7 @@ This will start a local server, and you can access the app in your browser.
 ---
 
 ## 🛠️ Technologies Used
-
-- **Python 3.8+**  
+- **Python 3.8+**
 - **Streamlit** – Frontend UI  
 - **Google YouTube API v3** – Fetching video comments  
 - **TextBlob** – Sentiment analysis  
@@ -92,8 +101,6 @@ This will start a local server, and you can access the app in your browser.
 - **dotenv** – Secure API key handling  
 
 ---
-
-## 📥Output
 
 
 
