@@ -22,13 +22,16 @@ Analyze YouTube video comments, generate sentiment insights, and visualize data 
 ### **Home Screen**
 ![Home Screen](screenshots/home_screen.png)
 
+---
+
 ### **Sentiment Analysis Results**
 ![Sentiment Analysis](screenshots/sentiment_results.png)
+
+---
 
 ### **Graphical Representation**
 ![Graph Output](https://github.com/reyansh2002/YouTube-VibeCheck/blob/main/Graph%20Output.png)
 
-(Ensure you upload these screenshots to your GitHub repository.)
 
 ---
 
