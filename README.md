@@ -25,7 +25,7 @@ Analyze YouTube video comments, generate sentiment insights, and visualize data 
 ---
 
 ### **Sentiment Analysis Results**
-![Sentiment Analysis](https://github.com/reyansh2002/YouTube-VibeCheck/blob/main/sentiment%20output.png)
+![Sentiment Analysis](https://github.com/reyansh2002/YouTube-VibeCheck/blob/main/sentiment%20analysis.png)
 
 ---
 
@@ -105,3 +105,11 @@ This will start a local server, and you can access the app in your browser.
 
 ---
 
+## 👨‍💻 Author
+
+Reyansh Singh
+[B.tech-CSE-AI & ML]
+
+---
+
+Give this project a ⭐ if you found it useful!
