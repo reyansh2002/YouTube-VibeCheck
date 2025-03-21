@@ -26,7 +26,7 @@ Analyze YouTube video comments, generate sentiment insights, and visualize data 
 ![Sentiment Analysis](screenshots/sentiment_results.png)
 
 ### **Graphical Representation**
-![Graph Output](graph_output.png)
+![Graph Output](Graph_Output.png)
 
 (Ensure you upload these screenshots to your GitHub repository.)
 
