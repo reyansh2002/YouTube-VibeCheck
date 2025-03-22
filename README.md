@@ -94,7 +94,7 @@ This will start a local server, and you can access the app in your browser.
 │── youtube_comments.csv       # Example CSV output
 │── requirements.txt           # Python dependencies
 │── README.md                  # Documentation
-│── screenshots/               # Screenshots for README
+
 ```
 
 ---
