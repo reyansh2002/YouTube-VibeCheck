@@ -19,7 +19,7 @@ Analyze YouTube video comments, generate sentiment insights, and visualize data 
 ---
 
 ### 🎬 **Live Demo**
-![Demo](https://github.com/reyansh2002/YouTube-VibeCheck/blob/main/screenshots/demo.gif)
+![Demo](https://github.com/reyansh2002/YouTube-VibeCheck/blob/main/Demo.gif)
 
 
 ---
